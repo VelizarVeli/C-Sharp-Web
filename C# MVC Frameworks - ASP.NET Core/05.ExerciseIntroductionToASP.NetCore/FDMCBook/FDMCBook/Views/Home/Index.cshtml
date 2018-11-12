@@ -5,13 +5,12 @@
         <div class="row p-1">
             <div class="col font-weight-bold">Name</div>
         </div>
-        @foreach (Cat r in Model)
-        {
         <ul>
-            @*<li>@Html.ActionLink(cat.Name, "Details", "Cats", new { id = cat.Id }, null)</li>*@
-            <li><a href="@r.ImageUrl">@r.Name</a></li>
+            @foreach (Cat r in Model)
+            {
+                <li><a asp-action="Details" asp-controller="Home" asp-route-id="@r.Id">@r.Name</a></li>
+            }
         </ul>
-        }
     </div>
     <a class="btn btn-primary" asp-action="AddCat">Add Cat</a>
 </div>

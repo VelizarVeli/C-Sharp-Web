@@ -15,6 +15,24 @@ namespace FDMCBook.Controllers
         public IActionResult CatPage() => View(context.Cats.Where(i => i.Id == 2));
 
         public IActionResult AddCat() => View();
+
+        [HttpGet]
+        public IActionResult Details(int id)
+        {
+            var cat = context.Cats.Find(id);
+
+            if (cat !=null)
+            {
+                var model = new Cat()
+                {
+                    Name = cat.Name
+                };
+                return this.View(model);
+            }
+
+            return NotFound();
+        }
+
         [HttpPost]
         public IActionResult AddCat(Cat cat)
         {
@@ -23,7 +41,7 @@ namespace FDMCBook.Controllers
             return RedirectToAction(nameof(Index),
                 new {cat.Name});
         }
-        public IActionResult AllCats(Cat AllCats) => View(AllCats);
+        //public IActionResult AllCats(Cat AllCats) => View(AllCats);
 
         public IActionResult ListResponses() =>
             View(context.Cats.OrderByDescending(r => r.Name));

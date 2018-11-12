@@ -76,7 +76,7 @@ using FDMCBook.Models;
             WriteLiteral("    </div>\r\n    ");
             EndContext();
             BeginContext(404, 58, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1752c6152de3471f904102eef9db8180", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "44df9e35e7684056b1610d639fc2254b", async() => {
                 BeginContext(451, 7, true);
                 WriteLiteral("Add Cat");
                 EndContext();
