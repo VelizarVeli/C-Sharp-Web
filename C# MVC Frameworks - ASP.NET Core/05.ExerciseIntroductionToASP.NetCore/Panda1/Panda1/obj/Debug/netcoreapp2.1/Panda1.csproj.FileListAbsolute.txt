@@ -1,0 +1,14 @@
+C:\Users\Google\Documents\Proj\04.C#Web\C# MVC Frameworks - ASP.NET Core\05.ExerciseIntroductionToASP.NetCore\Panda1\Panda1\bin\Debug\netcoreapp2.1\Panda1.deps.json
+C:\Users\Google\Documents\Proj\04.C#Web\C# MVC Frameworks - ASP.NET Core\05.ExerciseIntroductionToASP.NetCore\Panda1\Panda1\bin\Debug\netcoreapp2.1\Panda1.runtimeconfig.json
+C:\Users\Google\Documents\Proj\04.C#Web\C# MVC Frameworks - ASP.NET Core\05.ExerciseIntroductionToASP.NetCore\Panda1\Panda1\bin\Debug\netcoreapp2.1\Panda1.runtimeconfig.dev.json
+C:\Users\Google\Documents\Proj\04.C#Web\C# MVC Frameworks - ASP.NET Core\05.ExerciseIntroductionToASP.NetCore\Panda1\Panda1\bin\Debug\netcoreapp2.1\Panda1.dll
+C:\Users\Google\Documents\Proj\04.C#Web\C# MVC Frameworks - ASP.NET Core\05.ExerciseIntroductionToASP.NetCore\Panda1\Panda1\bin\Debug\netcoreapp2.1\Panda1.pdb
+C:\Users\Google\Documents\Proj\04.C#Web\C# MVC Frameworks - ASP.NET Core\05.ExerciseIntroductionToASP.NetCore\Panda1\Panda1\obj\Debug\netcoreapp2.1\Panda1.csproj.CoreCompileInputs.cache
+C:\Users\Google\Documents\Proj\04.C#Web\C# MVC Frameworks - ASP.NET Core\05.ExerciseIntroductionToASP.NetCore\Panda1\Panda1\obj\Debug\netcoreapp2.1\Panda1.RazorAssemblyInfo.cache
+C:\Users\Google\Documents\Proj\04.C#Web\C# MVC Frameworks - ASP.NET Core\05.ExerciseIntroductionToASP.NetCore\Panda1\Panda1\obj\Debug\netcoreapp2.1\Panda1.RazorAssemblyInfo.cs
+C:\Users\Google\Documents\Proj\04.C#Web\C# MVC Frameworks - ASP.NET Core\05.ExerciseIntroductionToASP.NetCore\Panda1\Panda1\obj\Debug\netcoreapp2.1\Panda1.AssemblyInfoInputs.cache
+C:\Users\Google\Documents\Proj\04.C#Web\C# MVC Frameworks - ASP.NET Core\05.ExerciseIntroductionToASP.NetCore\Panda1\Panda1\obj\Debug\netcoreapp2.1\Panda1.AssemblyInfo.cs
+C:\Users\Google\Documents\Proj\04.C#Web\C# MVC Frameworks - ASP.NET Core\05.ExerciseIntroductionToASP.NetCore\Panda1\Panda1\obj\Debug\netcoreapp2.1\Panda1.RazorTargetAssemblyInfo.cache
+C:\Users\Google\Documents\Proj\04.C#Web\C# MVC Frameworks - ASP.NET Core\05.ExerciseIntroductionToASP.NetCore\Panda1\Panda1\obj\Debug\netcoreapp2.1\Panda1.dll
+C:\Users\Google\Documents\Proj\04.C#Web\C# MVC Frameworks - ASP.NET Core\05.ExerciseIntroductionToASP.NetCore\Panda1\Panda1\obj\Debug\netcoreapp2.1\Panda1.pdb
+C:\Users\Google\Documents\Proj\04.C#Web\C# MVC Frameworks - ASP.NET Core\05.ExerciseIntroductionToASP.NetCore\Panda1\Panda1\obj\Debug\netcoreapp2.1\Panda1.csprojAssemblyReference.cache

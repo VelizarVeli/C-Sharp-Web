@@ -1,0 +1,47 @@
+C:\Users\Radi\Desktop\CSharp-Web-Development-Basics-September-2018\05.IRunes\Apps\CakesWebApp\bin\Debug\netcoreapp2.0\Views\AddCakes.html
+C:\Users\Radi\Desktop\CSharp-Web-Development-Basics-September-2018\05.IRunes\Apps\CakesWebApp\bin\Debug\netcoreapp2.0\Views\CakeById.html
+C:\Users\Radi\Desktop\CSharp-Web-Development-Basics-September-2018\05.IRunes\Apps\CakesWebApp\bin\Debug\netcoreapp2.0\Views\Error.html
+C:\Users\Radi\Desktop\CSharp-Web-Development-Basics-September-2018\05.IRunes\Apps\CakesWebApp\bin\Debug\netcoreapp2.0\Views\Index.html
+C:\Users\Radi\Desktop\CSharp-Web-Development-Basics-September-2018\05.IRunes\Apps\CakesWebApp\bin\Debug\netcoreapp2.0\Views\Login.html
+C:\Users\Radi\Desktop\CSharp-Web-Development-Basics-September-2018\05.IRunes\Apps\CakesWebApp\bin\Debug\netcoreapp2.0\Views\Register.html
+C:\Users\Radi\Desktop\CSharp-Web-Development-Basics-September-2018\05.IRunes\Apps\CakesWebApp\bin\Debug\netcoreapp2.0\Views\_Layout.html
+C:\Users\Radi\Desktop\CSharp-Web-Development-Basics-September-2018\05.IRunes\Apps\CakesWebApp\bin\Debug\netcoreapp2.0\CakesWebApp.deps.json
+C:\Users\Radi\Desktop\CSharp-Web-Development-Basics-September-2018\05.IRunes\Apps\CakesWebApp\bin\Debug\netcoreapp2.0\CakesWebApp.runtimeconfig.json
+C:\Users\Radi\Desktop\CSharp-Web-Development-Basics-September-2018\05.IRunes\Apps\CakesWebApp\bin\Debug\netcoreapp2.0\CakesWebApp.runtimeconfig.dev.json
+C:\Users\Radi\Desktop\CSharp-Web-Development-Basics-September-2018\05.IRunes\Apps\CakesWebApp\bin\Debug\netcoreapp2.0\CakesWebApp.dll
+C:\Users\Radi\Desktop\CSharp-Web-Development-Basics-September-2018\05.IRunes\Apps\CakesWebApp\bin\Debug\netcoreapp2.0\CakesWebApp.pdb
+C:\Users\Radi\Desktop\CSharp-Web-Development-Basics-September-2018\05.IRunes\Apps\CakesWebApp\bin\Debug\netcoreapp2.0\SIS.HTTP.dll
+C:\Users\Radi\Desktop\CSharp-Web-Development-Basics-September-2018\05.IRunes\Apps\CakesWebApp\bin\Debug\netcoreapp2.0\SIS.WebServer.dll
+C:\Users\Radi\Desktop\CSharp-Web-Development-Basics-September-2018\05.IRunes\Apps\CakesWebApp\bin\Debug\netcoreapp2.0\SIS.HTTP.pdb
+C:\Users\Radi\Desktop\CSharp-Web-Development-Basics-September-2018\05.IRunes\Apps\CakesWebApp\bin\Debug\netcoreapp2.0\SIS.WebServer.pdb
+C:\Users\Radi\Desktop\CSharp-Web-Development-Basics-September-2018\05.IRunes\Apps\CakesWebApp\obj\Debug\netcoreapp2.0\CakesWebApp.csprojResolveAssemblyReference.cache
+C:\Users\Radi\Desktop\CSharp-Web-Development-Basics-September-2018\05.IRunes\Apps\CakesWebApp\obj\Debug\netcoreapp2.0\CakesWebApp.csproj.CoreCompileInputs.cache
+C:\Users\Radi\Desktop\CSharp-Web-Development-Basics-September-2018\05.IRunes\Apps\CakesWebApp\obj\Debug\netcoreapp2.0\CakesWebApp.AssemblyInfoInputs.cache
+C:\Users\Radi\Desktop\CSharp-Web-Development-Basics-September-2018\05.IRunes\Apps\CakesWebApp\obj\Debug\netcoreapp2.0\CakesWebApp.AssemblyInfo.cs
+C:\Users\Radi\Desktop\CSharp-Web-Development-Basics-September-2018\05.IRunes\Apps\CakesWebApp\obj\Debug\netcoreapp2.0\CakesWebApp.dll
+C:\Users\Radi\Desktop\CSharp-Web-Development-Basics-September-2018\05.IRunes\Apps\CakesWebApp\obj\Debug\netcoreapp2.0\CakesWebApp.pdb
+C:\Users\Google\Desktop\1.Homework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\Apps\CakesWebApp\bin\Debug\netcoreapp2.0\Views\AddCakes.html
+C:\Users\Google\Desktop\1.Homework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\Apps\CakesWebApp\bin\Debug\netcoreapp2.0\Views\CakeById.html
+C:\Users\Google\Desktop\1.Homework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\Apps\CakesWebApp\bin\Debug\netcoreapp2.0\Views\Error.html
+C:\Users\Google\Desktop\1.Homework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\Apps\CakesWebApp\bin\Debug\netcoreapp2.0\Views\Index.html
+C:\Users\Google\Desktop\1.Homework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\Apps\CakesWebApp\bin\Debug\netcoreapp2.0\Views\Login.html
+C:\Users\Google\Desktop\1.Homework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\Apps\CakesWebApp\bin\Debug\netcoreapp2.0\Views\Register.html
+C:\Users\Google\Desktop\1.Homework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\Apps\CakesWebApp\bin\Debug\netcoreapp2.0\Views\_Layout.html
+C:\Users\Google\Desktop\1.Homework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\Apps\CakesWebApp\bin\Debug\netcoreapp2.0\CakesWebApp.deps.json
+C:\Users\Google\Desktop\1.Homework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\Apps\CakesWebApp\bin\Debug\netcoreapp2.0\CakesWebApp.runtimeconfig.json
+C:\Users\Google\Desktop\1.Homework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\Apps\CakesWebApp\bin\Debug\netcoreapp2.0\CakesWebApp.runtimeconfig.dev.json
+C:\Users\Google\Desktop\1.Homework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\Apps\CakesWebApp\bin\Debug\netcoreapp2.0\CakesWebApp.dll
+C:\Users\Google\Desktop\1.Homework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\Apps\CakesWebApp\bin\Debug\netcoreapp2.0\CakesWebApp.pdb
+C:\Users\Google\Desktop\1.Homework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\Apps\CakesWebApp\bin\Debug\netcoreapp2.0\SIS.HTTP.dll
+C:\Users\Google\Desktop\1.Homework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\Apps\CakesWebApp\bin\Debug\netcoreapp2.0\SIS.WebServer.dll
+C:\Users\Google\Desktop\1.Homework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\Apps\CakesWebApp\bin\Debug\netcoreapp2.0\SIS.HTTP.pdb
+C:\Users\Google\Desktop\1.Homework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\Apps\CakesWebApp\bin\Debug\netcoreapp2.0\SIS.WebServer.pdb
+C:\Users\Google\Desktop\1.Homework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\Apps\CakesWebApp\obj\Debug\netcoreapp2.0\CakesWebApp.csprojAssemblyReference.cache
+C:\Users\Google\Desktop\1.Homework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\Apps\CakesWebApp\obj\Debug\netcoreapp2.0\CakesWebApp.csproj.CoreCompileInputs.cache
+C:\Users\Google\Desktop\1.Homework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\Apps\CakesWebApp\obj\Debug\netcoreapp2.0\CakesWebApp.AssemblyInfoInputs.cache
+C:\Users\Google\Desktop\1.Homework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\Apps\CakesWebApp\obj\Debug\netcoreapp2.0\CakesWebApp.AssemblyInfo.cs
+C:\Users\Google\Desktop\1.Homework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\Apps\CakesWebApp\obj\Debug\netcoreapp2.0\CakesWebApp.csproj.CopyComplete
+C:\Users\Google\Desktop\1.Homework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\Apps\CakesWebApp\obj\Debug\netcoreapp2.0\CakesWebApp.dll
+C:\Users\Google\Desktop\1.Homework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\Apps\CakesWebApp\obj\Debug\netcoreapp2.0\CakesWebApp.pdb
+C:\Users\Google\Desktop\1.CheckHomework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\Apps\CakesWebApp\obj\Debug\netcoreapp2.0\CakesWebApp.dll
+C:\Users\Google\Desktop\1.CheckHomework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\Apps\CakesWebApp\obj\Debug\netcoreapp2.0\CakesWebApp.pdb

@@ -1,0 +1,15 @@
+C:\Users\Radi\Documents\Visual Studio 2017\Projects\SIS\IRunes.Models\bin\Debug\netcoreapp2.0\IRunes.Models.deps.json
+C:\Users\Radi\Documents\Visual Studio 2017\Projects\SIS\IRunes.Models\bin\Debug\netcoreapp2.0\IRunes.Models.dll
+C:\Users\Radi\Documents\Visual Studio 2017\Projects\SIS\IRunes.Models\obj\Debug\netcoreapp2.0\IRunes.Models.csproj.CoreCompileInputs.cache
+C:\Users\Radi\Documents\Visual Studio 2017\Projects\SIS\IRunes.Models\obj\Debug\netcoreapp2.0\IRunes.Models.AssemblyInfoInputs.cache
+C:\Users\Radi\Documents\Visual Studio 2017\Projects\SIS\IRunes.Models\obj\Debug\netcoreapp2.0\IRunes.Models.AssemblyInfo.cs
+C:\Users\Radi\Documents\Visual Studio 2017\Projects\SIS\IRunes.Models\obj\Debug\netcoreapp2.0\IRunes.Models.csprojResolveAssemblyReference.cache
+C:\Users\Radi\Documents\Visual Studio 2017\Projects\SIS\IRunes.Models\bin\Debug\netcoreapp2.0\IRunes.Models.pdb
+C:\Users\Radi\Documents\Visual Studio 2017\Projects\SIS\IRunes.Models\bin\Debug\netcoreapp2.0\SIS.Framework.dll
+C:\Users\Radi\Documents\Visual Studio 2017\Projects\SIS\IRunes.Models\bin\Debug\netcoreapp2.0\SIS.HTTP.dll
+C:\Users\Radi\Documents\Visual Studio 2017\Projects\SIS\IRunes.Models\bin\Debug\netcoreapp2.0\SIS.WebServer.dll
+C:\Users\Radi\Documents\Visual Studio 2017\Projects\SIS\IRunes.Models\bin\Debug\netcoreapp2.0\SIS.Framework.pdb
+C:\Users\Radi\Documents\Visual Studio 2017\Projects\SIS\IRunes.Models\bin\Debug\netcoreapp2.0\SIS.HTTP.pdb
+C:\Users\Radi\Documents\Visual Studio 2017\Projects\SIS\IRunes.Models\bin\Debug\netcoreapp2.0\SIS.WebServer.pdb
+C:\Users\Radi\Documents\Visual Studio 2017\Projects\SIS\IRunes.Models\obj\Debug\netcoreapp2.0\IRunes.Models.dll
+C:\Users\Radi\Documents\Visual Studio 2017\Projects\SIS\IRunes.Models\obj\Debug\netcoreapp2.0\IRunes.Models.pdb

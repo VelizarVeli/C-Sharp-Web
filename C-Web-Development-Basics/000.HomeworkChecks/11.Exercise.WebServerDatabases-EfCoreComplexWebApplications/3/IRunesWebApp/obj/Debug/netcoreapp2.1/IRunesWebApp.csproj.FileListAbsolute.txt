@@ -1,0 +1,25 @@
+C:\Development\SIS-master\src\IRunesWebApp\bin\Debug\netcoreapp2.1\IRunesWebApp.deps.json
+C:\Development\SIS-master\src\IRunesWebApp\bin\Debug\netcoreapp2.1\IRunesWebApp.runtimeconfig.json
+C:\Development\SIS-master\src\IRunesWebApp\bin\Debug\netcoreapp2.1\IRunesWebApp.runtimeconfig.dev.json
+C:\Development\SIS-master\src\IRunesWebApp\bin\Debug\netcoreapp2.1\IRunesWebApp.dll
+C:\Development\SIS-master\src\IRunesWebApp\obj\Debug\netcoreapp2.1\IRunesWebApp.csproj.CoreCompileInputs.cache
+C:\Development\SIS-master\src\IRunesWebApp\obj\Debug\netcoreapp2.1\IRunesWebApp.AssemblyInfoInputs.cache
+C:\Development\SIS-master\src\IRunesWebApp\obj\Debug\netcoreapp2.1\IRunesWebApp.AssemblyInfo.cs
+C:\Development\SIS-master\src\IRunesWebApp\obj\Debug\netcoreapp2.1\IRunesWebApp.csprojAssemblyReference.cache
+C:\Development\SIS-master\src\IRunesWebApp\bin\Debug\netcoreapp2.1\IRunesWebApp.pdb
+C:\Development\SIS-master\src\IRunesWebApp\bin\Debug\netcoreapp2.1\SIS.HTTP.dll
+C:\Development\SIS-master\src\IRunesWebApp\bin\Debug\netcoreapp2.1\SIS.WebServer.dll
+C:\Development\SIS-master\src\IRunesWebApp\bin\Debug\netcoreapp2.1\SIS.HTTP.pdb
+C:\Development\SIS-master\src\IRunesWebApp\bin\Debug\netcoreapp2.1\SIS.WebServer.pdb
+C:\Development\SIS-master\src\IRunesWebApp\obj\Debug\netcoreapp2.1\IRunesWebApp.csproj.CopyComplete
+C:\Development\SIS-master\src\IRunesWebApp\obj\Debug\netcoreapp2.1\IRunesWebApp.dll
+C:\Development\SIS-master\src\IRunesWebApp\obj\Debug\netcoreapp2.1\IRunesWebApp.pdb
+C:\Development\SIS-master\src\IRunesWebApp\bin\Debug\netcoreapp2.1\Views\Home\Index.html
+C:\Development\SIS-master\src\IRunesWebApp\bin\Debug\netcoreapp2.1\Views\Users\Login.html
+C:\Development\SIS-master\src\IRunesWebApp\bin\Debug\netcoreapp2.1\Views\Users\Register.html
+C:\Users\Google\Desktop\3.CheckHomework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\IRunesWebApp\obj\Debug\netcoreapp2.1\IRunesWebApp.csprojAssemblyReference.cache
+C:\Users\Google\Desktop\3.CheckHomework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\IRunesWebApp\obj\Debug\netcoreapp2.1\IRunesWebApp.csproj.CoreCompileInputs.cache
+C:\Users\Google\Desktop\3.CheckHomework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\IRunesWebApp\obj\Debug\netcoreapp2.1\IRunesWebApp.AssemblyInfoInputs.cache
+C:\Users\Google\Desktop\3.CheckHomework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\IRunesWebApp\obj\Debug\netcoreapp2.1\IRunesWebApp.AssemblyInfo.cs
+C:\Users\Google\Desktop\3.CheckHomework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\IRunesWebApp\obj\Debug\netcoreapp2.1\IRunesWebApp.dll
+C:\Users\Google\Desktop\3.CheckHomework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\IRunesWebApp\obj\Debug\netcoreapp2.1\IRunesWebApp.pdb

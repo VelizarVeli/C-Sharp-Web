@@ -1,0 +1,23 @@
+C:\Users\Radi\Desktop\Course Work\CSharp-Web-Development-Basics-September-2018\06.Bootstrap\SIS.WebServer\bin\Debug\netcoreapp2.0\SIS.WebServer.deps.json
+C:\Users\Radi\Desktop\Course Work\CSharp-Web-Development-Basics-September-2018\06.Bootstrap\SIS.WebServer\bin\Debug\netcoreapp2.0\SIS.WebServer.dll
+C:\Users\Radi\Desktop\Course Work\CSharp-Web-Development-Basics-September-2018\06.Bootstrap\SIS.WebServer\bin\Debug\netcoreapp2.0\SIS.WebServer.pdb
+C:\Users\Radi\Desktop\Course Work\CSharp-Web-Development-Basics-September-2018\06.Bootstrap\SIS.WebServer\bin\Debug\netcoreapp2.0\SIS.HTTP.dll
+C:\Users\Radi\Desktop\Course Work\CSharp-Web-Development-Basics-September-2018\06.Bootstrap\SIS.WebServer\bin\Debug\netcoreapp2.0\SIS.HTTP.pdb
+C:\Users\Radi\Desktop\Course Work\CSharp-Web-Development-Basics-September-2018\06.Bootstrap\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.csprojResolveAssemblyReference.cache
+C:\Users\Radi\Desktop\Course Work\CSharp-Web-Development-Basics-September-2018\06.Bootstrap\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.csproj.CoreCompileInputs.cache
+C:\Users\Radi\Desktop\Course Work\CSharp-Web-Development-Basics-September-2018\06.Bootstrap\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.AssemblyInfoInputs.cache
+C:\Users\Radi\Desktop\Course Work\CSharp-Web-Development-Basics-September-2018\06.Bootstrap\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.AssemblyInfo.cs
+C:\Users\Radi\Desktop\Course Work\CSharp-Web-Development-Basics-September-2018\06.Bootstrap\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.dll
+C:\Users\Radi\Desktop\Course Work\CSharp-Web-Development-Basics-September-2018\06.Bootstrap\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.pdb
+C:\Users\Google\Desktop\2\SIS.WebServer\bin\Debug\netcoreapp2.0\SIS.WebServer.deps.json
+C:\Users\Google\Desktop\2\SIS.WebServer\bin\Debug\netcoreapp2.0\SIS.WebServer.dll
+C:\Users\Google\Desktop\2\SIS.WebServer\bin\Debug\netcoreapp2.0\SIS.WebServer.pdb
+C:\Users\Google\Desktop\2\SIS.WebServer\bin\Debug\netcoreapp2.0\SIS.HTTP.dll
+C:\Users\Google\Desktop\2\SIS.WebServer\bin\Debug\netcoreapp2.0\SIS.HTTP.pdb
+C:\Users\Google\Desktop\2\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.csprojAssemblyReference.cache
+C:\Users\Google\Desktop\2\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.csproj.CoreCompileInputs.cache
+C:\Users\Google\Desktop\2\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.AssemblyInfoInputs.cache
+C:\Users\Google\Desktop\2\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.AssemblyInfo.cs
+C:\Users\Google\Desktop\2\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.csproj.CopyComplete
+C:\Users\Google\Desktop\2\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.dll
+C:\Users\Google\Desktop\2\SIS.WebServer\obj\Debug\netcoreapp2.0\SIS.WebServer.pdb

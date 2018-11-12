@@ -1,0 +1,32 @@
+D:\Workplace\C# Web Development\C# Web Development Basics\SIS\SIS.Demo\bin\Debug\netcoreapp2.1\SIS.Demo.deps.json
+D:\Workplace\C# Web Development\C# Web Development Basics\SIS\SIS.Demo\bin\Debug\netcoreapp2.1\SIS.Demo.runtimeconfig.json
+D:\Workplace\C# Web Development\C# Web Development Basics\SIS\SIS.Demo\bin\Debug\netcoreapp2.1\SIS.Demo.runtimeconfig.dev.json
+D:\Workplace\C# Web Development\C# Web Development Basics\SIS\SIS.Demo\bin\Debug\netcoreapp2.1\SIS.Demo.dll
+D:\Workplace\C# Web Development\C# Web Development Basics\SIS\SIS.Demo\bin\Debug\netcoreapp2.1\SIS.Demo.pdb
+D:\Workplace\C# Web Development\C# Web Development Basics\SIS\SIS.Demo\obj\Debug\netcoreapp2.1\SIS.Demo.csprojAssemblyReference.cache
+D:\Workplace\C# Web Development\C# Web Development Basics\SIS\SIS.Demo\obj\Debug\netcoreapp2.1\SIS.Demo.csproj.CoreCompileInputs.cache
+D:\Workplace\C# Web Development\C# Web Development Basics\SIS\SIS.Demo\obj\Debug\netcoreapp2.1\SIS.Demo.AssemblyInfoInputs.cache
+D:\Workplace\C# Web Development\C# Web Development Basics\SIS\SIS.Demo\obj\Debug\netcoreapp2.1\SIS.Demo.AssemblyInfo.cs
+D:\Workplace\C# Web Development\C# Web Development Basics\SIS\SIS.Demo\obj\Debug\netcoreapp2.1\SIS.Demo.dll
+D:\Workplace\C# Web Development\C# Web Development Basics\SIS\SIS.Demo\obj\Debug\netcoreapp2.1\SIS.Demo.pdb
+D:\Workplace\C# Web Development\C# Web Development Basics\SIS\SIS.Demo\bin\Debug\netcoreapp2.1\Http.dll
+D:\Workplace\C# Web Development\C# Web Development Basics\SIS\SIS.Demo\bin\Debug\netcoreapp2.1\WebServer.dll
+D:\Workplace\C# Web Development\C# Web Development Basics\SIS\SIS.Demo\bin\Debug\netcoreapp2.1\Http.pdb
+D:\Workplace\C# Web Development\C# Web Development Basics\SIS\SIS.Demo\bin\Debug\netcoreapp2.1\WebServer.pdb
+D:\Workplace\C# Web Development\C# Web Development Basics\SIS\SIS.Demo\obj\Debug\netcoreapp2.1\SIS.Demo.csproj.CopyComplete
+C:\Users\Google\Desktop\3\SIS\SIS.Demo\bin\Debug\netcoreapp2.1\SIS.Demo.deps.json
+C:\Users\Google\Desktop\3\SIS\SIS.Demo\bin\Debug\netcoreapp2.1\SIS.Demo.runtimeconfig.json
+C:\Users\Google\Desktop\3\SIS\SIS.Demo\bin\Debug\netcoreapp2.1\SIS.Demo.runtimeconfig.dev.json
+C:\Users\Google\Desktop\3\SIS\SIS.Demo\bin\Debug\netcoreapp2.1\SIS.Demo.dll
+C:\Users\Google\Desktop\3\SIS\SIS.Demo\bin\Debug\netcoreapp2.1\SIS.Demo.pdb
+C:\Users\Google\Desktop\3\SIS\SIS.Demo\bin\Debug\netcoreapp2.1\Http.dll
+C:\Users\Google\Desktop\3\SIS\SIS.Demo\bin\Debug\netcoreapp2.1\WebServer.dll
+C:\Users\Google\Desktop\3\SIS\SIS.Demo\bin\Debug\netcoreapp2.1\Http.pdb
+C:\Users\Google\Desktop\3\SIS\SIS.Demo\bin\Debug\netcoreapp2.1\WebServer.pdb
+C:\Users\Google\Desktop\3\SIS\SIS.Demo\obj\Debug\netcoreapp2.1\SIS.Demo.csprojAssemblyReference.cache
+C:\Users\Google\Desktop\3\SIS\SIS.Demo\obj\Debug\netcoreapp2.1\SIS.Demo.csproj.CoreCompileInputs.cache
+C:\Users\Google\Desktop\3\SIS\SIS.Demo\obj\Debug\netcoreapp2.1\SIS.Demo.AssemblyInfoInputs.cache
+C:\Users\Google\Desktop\3\SIS\SIS.Demo\obj\Debug\netcoreapp2.1\SIS.Demo.AssemblyInfo.cs
+C:\Users\Google\Desktop\3\SIS\SIS.Demo\obj\Debug\netcoreapp2.1\SIS.Demo.csproj.CopyComplete
+C:\Users\Google\Desktop\3\SIS\SIS.Demo\obj\Debug\netcoreapp2.1\SIS.Demo.dll
+C:\Users\Google\Desktop\3\SIS\SIS.Demo\obj\Debug\netcoreapp2.1\SIS.Demo.pdb

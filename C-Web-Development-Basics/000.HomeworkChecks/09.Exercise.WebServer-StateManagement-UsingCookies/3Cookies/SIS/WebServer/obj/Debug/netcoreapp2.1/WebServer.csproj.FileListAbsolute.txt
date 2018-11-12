@@ -1,0 +1,24 @@
+D:\Workplace\C# Web Development\C# Web Development Basics\SIS\WebServer\bin\Debug\netcoreapp2.1\WebServer.deps.json
+D:\Workplace\C# Web Development\C# Web Development Basics\SIS\WebServer\bin\Debug\netcoreapp2.1\WebServer.dll
+D:\Workplace\C# Web Development\C# Web Development Basics\SIS\WebServer\bin\Debug\netcoreapp2.1\WebServer.pdb
+D:\Workplace\C# Web Development\C# Web Development Basics\SIS\WebServer\obj\Debug\netcoreapp2.1\WebServer.csproj.CoreCompileInputs.cache
+D:\Workplace\C# Web Development\C# Web Development Basics\SIS\WebServer\obj\Debug\netcoreapp2.1\WebServer.AssemblyInfoInputs.cache
+D:\Workplace\C# Web Development\C# Web Development Basics\SIS\WebServer\obj\Debug\netcoreapp2.1\WebServer.AssemblyInfo.cs
+D:\Workplace\C# Web Development\C# Web Development Basics\SIS\WebServer\obj\Debug\netcoreapp2.1\WebServer.dll
+D:\Workplace\C# Web Development\C# Web Development Basics\SIS\WebServer\obj\Debug\netcoreapp2.1\WebServer.pdb
+D:\Workplace\C# Web Development\C# Web Development Basics\SIS\WebServer\bin\Debug\netcoreapp2.1\Http.dll
+D:\Workplace\C# Web Development\C# Web Development Basics\SIS\WebServer\bin\Debug\netcoreapp2.1\Http.pdb
+D:\Workplace\C# Web Development\C# Web Development Basics\SIS\WebServer\obj\Debug\netcoreapp2.1\WebServer.csprojAssemblyReference.cache
+D:\Workplace\C# Web Development\C# Web Development Basics\SIS\WebServer\obj\Debug\netcoreapp2.1\WebServer.csproj.CopyComplete
+C:\Users\Google\Desktop\3\SIS\WebServer\bin\Debug\netcoreapp2.1\WebServer.deps.json
+C:\Users\Google\Desktop\3\SIS\WebServer\bin\Debug\netcoreapp2.1\WebServer.dll
+C:\Users\Google\Desktop\3\SIS\WebServer\bin\Debug\netcoreapp2.1\WebServer.pdb
+C:\Users\Google\Desktop\3\SIS\WebServer\bin\Debug\netcoreapp2.1\Http.dll
+C:\Users\Google\Desktop\3\SIS\WebServer\bin\Debug\netcoreapp2.1\Http.pdb
+C:\Users\Google\Desktop\3\SIS\WebServer\obj\Debug\netcoreapp2.1\WebServer.csprojAssemblyReference.cache
+C:\Users\Google\Desktop\3\SIS\WebServer\obj\Debug\netcoreapp2.1\WebServer.csproj.CoreCompileInputs.cache
+C:\Users\Google\Desktop\3\SIS\WebServer\obj\Debug\netcoreapp2.1\WebServer.AssemblyInfoInputs.cache
+C:\Users\Google\Desktop\3\SIS\WebServer\obj\Debug\netcoreapp2.1\WebServer.AssemblyInfo.cs
+C:\Users\Google\Desktop\3\SIS\WebServer\obj\Debug\netcoreapp2.1\WebServer.csproj.CopyComplete
+C:\Users\Google\Desktop\3\SIS\WebServer\obj\Debug\netcoreapp2.1\WebServer.dll
+C:\Users\Google\Desktop\3\SIS\WebServer\obj\Debug\netcoreapp2.1\WebServer.pdb

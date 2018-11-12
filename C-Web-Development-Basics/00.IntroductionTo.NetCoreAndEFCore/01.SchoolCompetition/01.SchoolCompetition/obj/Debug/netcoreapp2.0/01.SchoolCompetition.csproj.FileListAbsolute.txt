@@ -1,0 +1,11 @@
+C:\Users\Google\Documents\Proj\04.C#Web\IntroductionTo.NetCoreAndEFCore\01.SchoolCompetition\01.SchoolCompetition\bin\Debug\netcoreapp2.0\01.SchoolCompetition.deps.json
+C:\Users\Google\Documents\Proj\04.C#Web\IntroductionTo.NetCoreAndEFCore\01.SchoolCompetition\01.SchoolCompetition\bin\Debug\netcoreapp2.0\01.SchoolCompetition.runtimeconfig.json
+C:\Users\Google\Documents\Proj\04.C#Web\IntroductionTo.NetCoreAndEFCore\01.SchoolCompetition\01.SchoolCompetition\bin\Debug\netcoreapp2.0\01.SchoolCompetition.runtimeconfig.dev.json
+C:\Users\Google\Documents\Proj\04.C#Web\IntroductionTo.NetCoreAndEFCore\01.SchoolCompetition\01.SchoolCompetition\bin\Debug\netcoreapp2.0\01.SchoolCompetition.dll
+C:\Users\Google\Documents\Proj\04.C#Web\IntroductionTo.NetCoreAndEFCore\01.SchoolCompetition\01.SchoolCompetition\bin\Debug\netcoreapp2.0\01.SchoolCompetition.pdb
+C:\Users\Google\Documents\Proj\04.C#Web\IntroductionTo.NetCoreAndEFCore\01.SchoolCompetition\01.SchoolCompetition\obj\Debug\netcoreapp2.0\01.SchoolCompetition.csprojResolveAssemblyReference.cache
+C:\Users\Google\Documents\Proj\04.C#Web\IntroductionTo.NetCoreAndEFCore\01.SchoolCompetition\01.SchoolCompetition\obj\Debug\netcoreapp2.0\01.SchoolCompetition.csproj.CoreCompileInputs.cache
+C:\Users\Google\Documents\Proj\04.C#Web\IntroductionTo.NetCoreAndEFCore\01.SchoolCompetition\01.SchoolCompetition\obj\Debug\netcoreapp2.0\01.SchoolCompetition.AssemblyInfoInputs.cache
+C:\Users\Google\Documents\Proj\04.C#Web\IntroductionTo.NetCoreAndEFCore\01.SchoolCompetition\01.SchoolCompetition\obj\Debug\netcoreapp2.0\01.SchoolCompetition.AssemblyInfo.cs
+C:\Users\Google\Documents\Proj\04.C#Web\IntroductionTo.NetCoreAndEFCore\01.SchoolCompetition\01.SchoolCompetition\obj\Debug\netcoreapp2.0\01.SchoolCompetition.dll
+C:\Users\Google\Documents\Proj\04.C#Web\IntroductionTo.NetCoreAndEFCore\01.SchoolCompetition\01.SchoolCompetition\obj\Debug\netcoreapp2.0\01.SchoolCompetition.pdb

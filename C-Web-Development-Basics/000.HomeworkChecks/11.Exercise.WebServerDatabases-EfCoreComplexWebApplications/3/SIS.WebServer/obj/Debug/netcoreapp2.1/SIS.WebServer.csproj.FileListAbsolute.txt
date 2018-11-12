@@ -1,0 +1,24 @@
+C:\Development\SIS-master\src\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.WebServer.deps.json
+C:\Development\SIS-master\src\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.WebServer.dll
+C:\Development\SIS-master\src\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.WebServer.pdb
+C:\Development\SIS-master\src\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.HTTP.dll
+C:\Development\SIS-master\src\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.HTTP.pdb
+C:\Development\SIS-master\src\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.csprojAssemblyReference.cache
+C:\Development\SIS-master\src\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.csproj.CoreCompileInputs.cache
+C:\Development\SIS-master\src\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.AssemblyInfoInputs.cache
+C:\Development\SIS-master\src\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.AssemblyInfo.cs
+C:\Development\SIS-master\src\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.csproj.CopyComplete
+C:\Development\SIS-master\src\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.dll
+C:\Development\SIS-master\src\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.pdb
+C:\Users\Google\Desktop\3.CheckHomework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.WebServer.deps.json
+C:\Users\Google\Desktop\3.CheckHomework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.WebServer.dll
+C:\Users\Google\Desktop\3.CheckHomework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.WebServer.pdb
+C:\Users\Google\Desktop\3.CheckHomework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.HTTP.dll
+C:\Users\Google\Desktop\3.CheckHomework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.HTTP.pdb
+C:\Users\Google\Desktop\3.CheckHomework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.csprojAssemblyReference.cache
+C:\Users\Google\Desktop\3.CheckHomework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.csproj.CoreCompileInputs.cache
+C:\Users\Google\Desktop\3.CheckHomework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.AssemblyInfoInputs.cache
+C:\Users\Google\Desktop\3.CheckHomework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.AssemblyInfo.cs
+C:\Users\Google\Desktop\3.CheckHomework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.csproj.CopyComplete
+C:\Users\Google\Desktop\3.CheckHomework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.dll
+C:\Users\Google\Desktop\3.CheckHomework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.pdb

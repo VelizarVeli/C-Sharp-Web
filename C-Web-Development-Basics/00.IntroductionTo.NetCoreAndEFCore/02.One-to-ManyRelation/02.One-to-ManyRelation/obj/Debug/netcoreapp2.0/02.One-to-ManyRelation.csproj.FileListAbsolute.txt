@@ -1,0 +1,15 @@
+C:\Users\Google\Documents\Proj\04.C#Web\IntroductionTo.NetCoreAndEFCore\02.One-to-ManyRelation\02.One-to-ManyRelation\02.One-to-ManyRelation\bin\Debug\netcoreapp2.0\02.One-to-ManyRelation.deps.json
+C:\Users\Google\Documents\Proj\04.C#Web\IntroductionTo.NetCoreAndEFCore\02.One-to-ManyRelation\02.One-to-ManyRelation\02.One-to-ManyRelation\bin\Debug\netcoreapp2.0\02.One-to-ManyRelation.runtimeconfig.json
+C:\Users\Google\Documents\Proj\04.C#Web\IntroductionTo.NetCoreAndEFCore\02.One-to-ManyRelation\02.One-to-ManyRelation\02.One-to-ManyRelation\bin\Debug\netcoreapp2.0\02.One-to-ManyRelation.runtimeconfig.dev.json
+C:\Users\Google\Documents\Proj\04.C#Web\IntroductionTo.NetCoreAndEFCore\02.One-to-ManyRelation\02.One-to-ManyRelation\02.One-to-ManyRelation\bin\Debug\netcoreapp2.0\02.One-to-ManyRelation.dll
+C:\Users\Google\Documents\Proj\04.C#Web\IntroductionTo.NetCoreAndEFCore\02.One-to-ManyRelation\02.One-to-ManyRelation\02.One-to-ManyRelation\bin\Debug\netcoreapp2.0\02.One-to-ManyRelation.pdb
+C:\Users\Google\Documents\Proj\04.C#Web\IntroductionTo.NetCoreAndEFCore\02.One-to-ManyRelation\02.One-to-ManyRelation\02.One-to-ManyRelation\obj\Debug\netcoreapp2.0\02.One-to-ManyRelation.csprojResolveAssemblyReference.cache
+C:\Users\Google\Documents\Proj\04.C#Web\IntroductionTo.NetCoreAndEFCore\02.One-to-ManyRelation\02.One-to-ManyRelation\02.One-to-ManyRelation\obj\Debug\netcoreapp2.0\02.One-to-ManyRelation.csproj.CoreCompileInputs.cache
+C:\Users\Google\Documents\Proj\04.C#Web\IntroductionTo.NetCoreAndEFCore\02.One-to-ManyRelation\02.One-to-ManyRelation\02.One-to-ManyRelation\obj\Debug\netcoreapp2.0\02.One-to-ManyRelation.AssemblyInfoInputs.cache
+C:\Users\Google\Documents\Proj\04.C#Web\IntroductionTo.NetCoreAndEFCore\02.One-to-ManyRelation\02.One-to-ManyRelation\02.One-to-ManyRelation\obj\Debug\netcoreapp2.0\02.One-to-ManyRelation.AssemblyInfo.cs
+C:\Users\Google\Documents\Proj\04.C#Web\IntroductionTo.NetCoreAndEFCore\02.One-to-ManyRelation\02.One-to-ManyRelation\02.One-to-ManyRelation\obj\Debug\netcoreapp2.0\02.One-to-ManyRelation.dll
+C:\Users\Google\Documents\Proj\04.C#Web\IntroductionTo.NetCoreAndEFCore\02.One-to-ManyRelation\02.One-to-ManyRelation\02.One-to-ManyRelation\obj\Debug\netcoreapp2.0\02.One-to-ManyRelation.pdb
+C:\Users\Google\Documents\Proj\04.C#Web\IntroductionTo.NetCoreAndEFCore\02.One-to-ManyRelation\02.One-to-ManyRelation\02.One-to-ManyRelation\bin\Debug\netcoreapp2.0\OneToManyRelations.Data.dll
+C:\Users\Google\Documents\Proj\04.C#Web\IntroductionTo.NetCoreAndEFCore\02.One-to-ManyRelation\02.One-to-ManyRelation\02.One-to-ManyRelation\bin\Debug\netcoreapp2.0\OneToManyRelations.Models.dll
+C:\Users\Google\Documents\Proj\04.C#Web\IntroductionTo.NetCoreAndEFCore\02.One-to-ManyRelation\02.One-to-ManyRelation\02.One-to-ManyRelation\bin\Debug\netcoreapp2.0\OneToManyRelations.Data.pdb
+C:\Users\Google\Documents\Proj\04.C#Web\IntroductionTo.NetCoreAndEFCore\02.One-to-ManyRelation\02.One-to-ManyRelation\02.One-to-ManyRelation\bin\Debug\netcoreapp2.0\OneToManyRelations.Models.pdb

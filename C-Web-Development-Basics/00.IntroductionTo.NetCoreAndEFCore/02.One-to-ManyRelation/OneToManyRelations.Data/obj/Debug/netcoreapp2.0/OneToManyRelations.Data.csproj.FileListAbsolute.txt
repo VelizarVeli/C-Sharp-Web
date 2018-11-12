@@ -1,0 +1,11 @@
+C:\Users\Google\Documents\Proj\04.C#Web\IntroductionTo.NetCoreAndEFCore\02.One-to-ManyRelation\02.One-to-ManyRelation\OneToManyRelations.Data\bin\Debug\netcoreapp2.0\OneToManyRelations.Data.deps.json
+C:\Users\Google\Documents\Proj\04.C#Web\IntroductionTo.NetCoreAndEFCore\02.One-to-ManyRelation\02.One-to-ManyRelation\OneToManyRelations.Data\bin\Debug\netcoreapp2.0\OneToManyRelations.Data.dll
+C:\Users\Google\Documents\Proj\04.C#Web\IntroductionTo.NetCoreAndEFCore\02.One-to-ManyRelation\02.One-to-ManyRelation\OneToManyRelations.Data\obj\Debug\netcoreapp2.0\OneToManyRelations.Data.csproj.CoreCompileInputs.cache
+C:\Users\Google\Documents\Proj\04.C#Web\IntroductionTo.NetCoreAndEFCore\02.One-to-ManyRelation\02.One-to-ManyRelation\OneToManyRelations.Data\obj\Debug\netcoreapp2.0\OneToManyRelations.Data.AssemblyInfoInputs.cache
+C:\Users\Google\Documents\Proj\04.C#Web\IntroductionTo.NetCoreAndEFCore\02.One-to-ManyRelation\02.One-to-ManyRelation\OneToManyRelations.Data\obj\Debug\netcoreapp2.0\OneToManyRelations.Data.AssemblyInfo.cs
+C:\Users\Google\Documents\Proj\04.C#Web\IntroductionTo.NetCoreAndEFCore\02.One-to-ManyRelation\02.One-to-ManyRelation\OneToManyRelations.Data\bin\Debug\netcoreapp2.0\OneToManyRelations.Data.pdb
+C:\Users\Google\Documents\Proj\04.C#Web\IntroductionTo.NetCoreAndEFCore\02.One-to-ManyRelation\02.One-to-ManyRelation\OneToManyRelations.Data\bin\Debug\netcoreapp2.0\OneToManyRelations.Models.dll
+C:\Users\Google\Documents\Proj\04.C#Web\IntroductionTo.NetCoreAndEFCore\02.One-to-ManyRelation\02.One-to-ManyRelation\OneToManyRelations.Data\bin\Debug\netcoreapp2.0\OneToManyRelations.Models.pdb
+C:\Users\Google\Documents\Proj\04.C#Web\IntroductionTo.NetCoreAndEFCore\02.One-to-ManyRelation\02.One-to-ManyRelation\OneToManyRelations.Data\obj\Debug\netcoreapp2.0\OneToManyRelations.Data.csprojResolveAssemblyReference.cache
+C:\Users\Google\Documents\Proj\04.C#Web\IntroductionTo.NetCoreAndEFCore\02.One-to-ManyRelation\02.One-to-ManyRelation\OneToManyRelations.Data\obj\Debug\netcoreapp2.0\OneToManyRelations.Data.dll
+C:\Users\Google\Documents\Proj\04.C#Web\IntroductionTo.NetCoreAndEFCore\02.One-to-ManyRelation\02.One-to-ManyRelation\OneToManyRelations.Data\obj\Debug\netcoreapp2.0\OneToManyRelations.Data.pdb

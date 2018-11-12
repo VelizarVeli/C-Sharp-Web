@@ -1,0 +1,44 @@
+C:\Users\Radi\Desktop\Course Work\CSharp-Web-Development-Basics-September-2018\06.Bootstrap\Apps\IRunes\bin\Debug\netcoreapp2.0\IRunes.deps.json
+C:\Users\Radi\Desktop\Course Work\CSharp-Web-Development-Basics-September-2018\06.Bootstrap\Apps\IRunes\bin\Debug\netcoreapp2.0\IRunes.runtimeconfig.json
+C:\Users\Radi\Desktop\Course Work\CSharp-Web-Development-Basics-September-2018\06.Bootstrap\Apps\IRunes\bin\Debug\netcoreapp2.0\IRunes.runtimeconfig.dev.json
+C:\Users\Radi\Desktop\Course Work\CSharp-Web-Development-Basics-September-2018\06.Bootstrap\Apps\IRunes\bin\Debug\netcoreapp2.0\IRunes.dll
+C:\Users\Radi\Desktop\Course Work\CSharp-Web-Development-Basics-September-2018\06.Bootstrap\Apps\IRunes\bin\Debug\netcoreapp2.0\IRunes.pdb
+C:\Users\Radi\Desktop\Course Work\CSharp-Web-Development-Basics-September-2018\06.Bootstrap\Apps\IRunes\bin\Debug\netcoreapp2.0\SIS.HTTP.dll
+C:\Users\Radi\Desktop\Course Work\CSharp-Web-Development-Basics-September-2018\06.Bootstrap\Apps\IRunes\bin\Debug\netcoreapp2.0\SIS.WebServer.dll
+C:\Users\Radi\Desktop\Course Work\CSharp-Web-Development-Basics-September-2018\06.Bootstrap\Apps\IRunes\bin\Debug\netcoreapp2.0\SIS.HTTP.pdb
+C:\Users\Radi\Desktop\Course Work\CSharp-Web-Development-Basics-September-2018\06.Bootstrap\Apps\IRunes\bin\Debug\netcoreapp2.0\SIS.WebServer.pdb
+C:\Users\Radi\Desktop\Course Work\CSharp-Web-Development-Basics-September-2018\06.Bootstrap\Apps\IRunes\obj\Debug\netcoreapp2.0\IRunes.csprojResolveAssemblyReference.cache
+C:\Users\Radi\Desktop\Course Work\CSharp-Web-Development-Basics-September-2018\06.Bootstrap\Apps\IRunes\obj\Debug\netcoreapp2.0\IRunes.csproj.CoreCompileInputs.cache
+C:\Users\Radi\Desktop\Course Work\CSharp-Web-Development-Basics-September-2018\06.Bootstrap\Apps\IRunes\obj\Debug\netcoreapp2.0\IRunes.AssemblyInfoInputs.cache
+C:\Users\Radi\Desktop\Course Work\CSharp-Web-Development-Basics-September-2018\06.Bootstrap\Apps\IRunes\obj\Debug\netcoreapp2.0\IRunes.AssemblyInfo.cs
+C:\Users\Radi\Desktop\Course Work\CSharp-Web-Development-Basics-September-2018\06.Bootstrap\Apps\IRunes\obj\Debug\netcoreapp2.0\IRunes.dll
+C:\Users\Radi\Desktop\Course Work\CSharp-Web-Development-Basics-September-2018\06.Bootstrap\Apps\IRunes\obj\Debug\netcoreapp2.0\IRunes.pdb
+C:\Users\Google\Desktop\2\Apps\IRunes\bin\Debug\netcoreapp2.0\IRunes.deps.json
+C:\Users\Google\Desktop\2\Apps\IRunes\bin\Debug\netcoreapp2.0\IRunes.runtimeconfig.json
+C:\Users\Google\Desktop\2\Apps\IRunes\bin\Debug\netcoreapp2.0\IRunes.runtimeconfig.dev.json
+C:\Users\Google\Desktop\2\Apps\IRunes\bin\Debug\netcoreapp2.0\IRunes.dll
+C:\Users\Google\Desktop\2\Apps\IRunes\bin\Debug\netcoreapp2.0\IRunes.pdb
+C:\Users\Google\Desktop\2\Apps\IRunes\bin\Debug\netcoreapp2.0\SIS.HTTP.dll
+C:\Users\Google\Desktop\2\Apps\IRunes\bin\Debug\netcoreapp2.0\SIS.WebServer.dll
+C:\Users\Google\Desktop\2\Apps\IRunes\bin\Debug\netcoreapp2.0\SIS.HTTP.pdb
+C:\Users\Google\Desktop\2\Apps\IRunes\bin\Debug\netcoreapp2.0\SIS.WebServer.pdb
+C:\Users\Google\Desktop\2\Apps\IRunes\obj\Debug\netcoreapp2.0\IRunes.csprojAssemblyReference.cache
+C:\Users\Google\Desktop\2\Apps\IRunes\obj\Debug\netcoreapp2.0\IRunes.csproj.CoreCompileInputs.cache
+C:\Users\Google\Desktop\2\Apps\IRunes\obj\Debug\netcoreapp2.0\IRunes.AssemblyInfoInputs.cache
+C:\Users\Google\Desktop\2\Apps\IRunes\obj\Debug\netcoreapp2.0\IRunes.AssemblyInfo.cs
+C:\Users\Google\Desktop\2\Apps\IRunes\obj\Debug\netcoreapp2.0\IRunes.csproj.CopyComplete
+C:\Users\Google\Desktop\2\Apps\IRunes\obj\Debug\netcoreapp2.0\IRunes.dll
+C:\Users\Google\Desktop\2\Apps\IRunes\obj\Debug\netcoreapp2.0\IRunes.pdb
+C:\Users\Google\Desktop\2\Apps\IRunes\bin\Debug\netcoreapp2.0\Views\_Layout.html
+C:\Users\Google\Desktop\2\Apps\IRunes\bin\Debug\netcoreapp2.0\Views\Albums\All.html
+C:\Users\Google\Desktop\2\Apps\IRunes\bin\Debug\netcoreapp2.0\Views\Albums\Create.html
+C:\Users\Google\Desktop\2\Apps\IRunes\bin\Debug\netcoreapp2.0\Views\Albums\Details.html
+C:\Users\Google\Desktop\2\Apps\IRunes\bin\Debug\netcoreapp2.0\Views\Error.html
+C:\Users\Google\Desktop\2\Apps\IRunes\bin\Debug\netcoreapp2.0\Views\Home\IndexLoggedIn.html
+C:\Users\Google\Desktop\2\Apps\IRunes\bin\Debug\netcoreapp2.0\Views\Home\IndexLoggedOut.html
+C:\Users\Google\Desktop\2\Apps\IRunes\bin\Debug\netcoreapp2.0\Views\Navigation\NavigationLoggedIn.html
+C:\Users\Google\Desktop\2\Apps\IRunes\bin\Debug\netcoreapp2.0\Views\Navigation\NavigationLoggedOut.html
+C:\Users\Google\Desktop\2\Apps\IRunes\bin\Debug\netcoreapp2.0\Views\Tracks\Create.html
+C:\Users\Google\Desktop\2\Apps\IRunes\bin\Debug\netcoreapp2.0\Views\Tracks\Details.html
+C:\Users\Google\Desktop\2\Apps\IRunes\bin\Debug\netcoreapp2.0\Views\Users\Login.html
+C:\Users\Google\Desktop\2\Apps\IRunes\bin\Debug\netcoreapp2.0\Views\Users\Register.html

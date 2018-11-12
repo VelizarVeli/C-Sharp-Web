@@ -1,0 +1,12 @@
+C:\Users\Google\Desktop\3\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.WebServer.deps.json
+C:\Users\Google\Desktop\3\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.WebServer.dll
+C:\Users\Google\Desktop\3\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.WebServer.pdb
+C:\Users\Google\Desktop\3\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.HTTP.dll
+C:\Users\Google\Desktop\3\SIS.WebServer\bin\Debug\netcoreapp2.1\SIS.HTTP.pdb
+C:\Users\Google\Desktop\3\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.csprojAssemblyReference.cache
+C:\Users\Google\Desktop\3\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.csproj.CoreCompileInputs.cache
+C:\Users\Google\Desktop\3\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.AssemblyInfoInputs.cache
+C:\Users\Google\Desktop\3\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.AssemblyInfo.cs
+C:\Users\Google\Desktop\3\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.csproj.CopyComplete
+C:\Users\Google\Desktop\3\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.dll
+C:\Users\Google\Desktop\3\SIS.WebServer\obj\Debug\netcoreapp2.1\SIS.WebServer.pdb

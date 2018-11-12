@@ -1,0 +1,18 @@
+D:\Workplace\C# Web Development\C# Web Development Basics\SIS\Http\bin\Debug\netcoreapp2.1\Http.deps.json
+D:\Workplace\C# Web Development\C# Web Development Basics\SIS\Http\bin\Debug\netcoreapp2.1\Http.dll
+D:\Workplace\C# Web Development\C# Web Development Basics\SIS\Http\bin\Debug\netcoreapp2.1\Http.pdb
+D:\Workplace\C# Web Development\C# Web Development Basics\SIS\Http\obj\Debug\netcoreapp2.1\Http.csprojAssemblyReference.cache
+D:\Workplace\C# Web Development\C# Web Development Basics\SIS\Http\obj\Debug\netcoreapp2.1\Http.csproj.CoreCompileInputs.cache
+D:\Workplace\C# Web Development\C# Web Development Basics\SIS\Http\obj\Debug\netcoreapp2.1\Http.AssemblyInfoInputs.cache
+D:\Workplace\C# Web Development\C# Web Development Basics\SIS\Http\obj\Debug\netcoreapp2.1\Http.AssemblyInfo.cs
+D:\Workplace\C# Web Development\C# Web Development Basics\SIS\Http\obj\Debug\netcoreapp2.1\Http.dll
+D:\Workplace\C# Web Development\C# Web Development Basics\SIS\Http\obj\Debug\netcoreapp2.1\Http.pdb
+C:\Users\Google\Desktop\3\SIS\Http\bin\Debug\netcoreapp2.1\Http.deps.json
+C:\Users\Google\Desktop\3\SIS\Http\bin\Debug\netcoreapp2.1\Http.dll
+C:\Users\Google\Desktop\3\SIS\Http\bin\Debug\netcoreapp2.1\Http.pdb
+C:\Users\Google\Desktop\3\SIS\Http\obj\Debug\netcoreapp2.1\Http.csprojAssemblyReference.cache
+C:\Users\Google\Desktop\3\SIS\Http\obj\Debug\netcoreapp2.1\Http.csproj.CoreCompileInputs.cache
+C:\Users\Google\Desktop\3\SIS\Http\obj\Debug\netcoreapp2.1\Http.AssemblyInfoInputs.cache
+C:\Users\Google\Desktop\3\SIS\Http\obj\Debug\netcoreapp2.1\Http.AssemblyInfo.cs
+C:\Users\Google\Desktop\3\SIS\Http\obj\Debug\netcoreapp2.1\Http.dll
+C:\Users\Google\Desktop\3\SIS\Http\obj\Debug\netcoreapp2.1\Http.pdb

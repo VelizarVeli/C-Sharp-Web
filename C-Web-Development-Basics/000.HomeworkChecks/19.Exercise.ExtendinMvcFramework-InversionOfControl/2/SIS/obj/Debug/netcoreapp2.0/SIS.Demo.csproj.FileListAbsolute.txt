@@ -1,0 +1,17 @@
+C:\Users\Radi\Documents\Visual Studio 2017\Projects\SIS\SIS\bin\Debug\netcoreapp2.0\SIS.Demo.deps.json
+C:\Users\Radi\Documents\Visual Studio 2017\Projects\SIS\SIS\bin\Debug\netcoreapp2.0\SIS.Demo.runtimeconfig.json
+C:\Users\Radi\Documents\Visual Studio 2017\Projects\SIS\SIS\bin\Debug\netcoreapp2.0\SIS.Demo.runtimeconfig.dev.json
+C:\Users\Radi\Documents\Visual Studio 2017\Projects\SIS\SIS\bin\Debug\netcoreapp2.0\SIS.Demo.dll
+C:\Users\Radi\Documents\Visual Studio 2017\Projects\SIS\SIS\obj\Debug\netcoreapp2.0\SIS.Demo.csprojResolveAssemblyReference.cache
+C:\Users\Radi\Documents\Visual Studio 2017\Projects\SIS\SIS\obj\Debug\netcoreapp2.0\SIS.Demo.csproj.CoreCompileInputs.cache
+C:\Users\Radi\Documents\Visual Studio 2017\Projects\SIS\SIS\obj\Debug\netcoreapp2.0\SIS.Demo.AssemblyInfoInputs.cache
+C:\Users\Radi\Documents\Visual Studio 2017\Projects\SIS\SIS\obj\Debug\netcoreapp2.0\SIS.Demo.AssemblyInfo.cs
+C:\Users\Radi\Documents\Visual Studio 2017\Projects\SIS\SIS\bin\Debug\netcoreapp2.0\SIS.Demo.pdb
+C:\Users\Radi\Documents\Visual Studio 2017\Projects\SIS\SIS\bin\Debug\netcoreapp2.0\SIS.Framework.dll
+C:\Users\Radi\Documents\Visual Studio 2017\Projects\SIS\SIS\bin\Debug\netcoreapp2.0\SIS.HTTP.dll
+C:\Users\Radi\Documents\Visual Studio 2017\Projects\SIS\SIS\bin\Debug\netcoreapp2.0\SIS.WebServer.dll
+C:\Users\Radi\Documents\Visual Studio 2017\Projects\SIS\SIS\bin\Debug\netcoreapp2.0\SIS.Framework.pdb
+C:\Users\Radi\Documents\Visual Studio 2017\Projects\SIS\SIS\bin\Debug\netcoreapp2.0\SIS.HTTP.pdb
+C:\Users\Radi\Documents\Visual Studio 2017\Projects\SIS\SIS\bin\Debug\netcoreapp2.0\SIS.WebServer.pdb
+C:\Users\Radi\Documents\Visual Studio 2017\Projects\SIS\SIS\obj\Debug\netcoreapp2.0\SIS.Demo.dll
+C:\Users\Radi\Documents\Visual Studio 2017\Projects\SIS\SIS\obj\Debug\netcoreapp2.0\SIS.Demo.pdb

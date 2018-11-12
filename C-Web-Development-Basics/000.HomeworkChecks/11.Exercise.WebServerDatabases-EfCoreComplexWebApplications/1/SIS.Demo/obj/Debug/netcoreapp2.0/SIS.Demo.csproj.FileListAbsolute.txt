@@ -1,0 +1,33 @@
+C:\Users\Radi\Desktop\CSharp-Web-Development-Basics-September-2018\05.IRunes\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.Demo.deps.json
+C:\Users\Radi\Desktop\CSharp-Web-Development-Basics-September-2018\05.IRunes\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.Demo.runtimeconfig.json
+C:\Users\Radi\Desktop\CSharp-Web-Development-Basics-September-2018\05.IRunes\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.Demo.runtimeconfig.dev.json
+C:\Users\Radi\Desktop\CSharp-Web-Development-Basics-September-2018\05.IRunes\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.Demo.dll
+C:\Users\Radi\Desktop\CSharp-Web-Development-Basics-September-2018\05.IRunes\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.Demo.pdb
+C:\Users\Radi\Desktop\CSharp-Web-Development-Basics-September-2018\05.IRunes\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.HTTP.dll
+C:\Users\Radi\Desktop\CSharp-Web-Development-Basics-September-2018\05.IRunes\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.WebServer.dll
+C:\Users\Radi\Desktop\CSharp-Web-Development-Basics-September-2018\05.IRunes\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.HTTP.pdb
+C:\Users\Radi\Desktop\CSharp-Web-Development-Basics-September-2018\05.IRunes\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.WebServer.pdb
+C:\Users\Radi\Desktop\CSharp-Web-Development-Basics-September-2018\05.IRunes\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.csproj.CoreCompileInputs.cache
+C:\Users\Radi\Desktop\CSharp-Web-Development-Basics-September-2018\05.IRunes\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.AssemblyInfoInputs.cache
+C:\Users\Radi\Desktop\CSharp-Web-Development-Basics-September-2018\05.IRunes\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.AssemblyInfo.cs
+C:\Users\Radi\Desktop\CSharp-Web-Development-Basics-September-2018\05.IRunes\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.dll
+C:\Users\Radi\Desktop\CSharp-Web-Development-Basics-September-2018\05.IRunes\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.pdb
+C:\Users\Radi\Desktop\CSharp-Web-Development-Basics-September-2018\05.IRunes\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.csprojResolveAssemblyReference.cache
+C:\Users\Google\Desktop\1.Homework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.Demo.deps.json
+C:\Users\Google\Desktop\1.Homework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.Demo.runtimeconfig.json
+C:\Users\Google\Desktop\1.Homework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.Demo.runtimeconfig.dev.json
+C:\Users\Google\Desktop\1.Homework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.Demo.dll
+C:\Users\Google\Desktop\1.Homework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.Demo.pdb
+C:\Users\Google\Desktop\1.Homework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.HTTP.dll
+C:\Users\Google\Desktop\1.Homework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.WebServer.dll
+C:\Users\Google\Desktop\1.Homework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.HTTP.pdb
+C:\Users\Google\Desktop\1.Homework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\SIS.Demo\bin\Debug\netcoreapp2.0\SIS.WebServer.pdb
+C:\Users\Google\Desktop\1.Homework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.csprojAssemblyReference.cache
+C:\Users\Google\Desktop\1.Homework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.csproj.CoreCompileInputs.cache
+C:\Users\Google\Desktop\1.Homework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.AssemblyInfoInputs.cache
+C:\Users\Google\Desktop\1.Homework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.AssemblyInfo.cs
+C:\Users\Google\Desktop\1.Homework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.csproj.CopyComplete
+C:\Users\Google\Desktop\1.Homework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.dll
+C:\Users\Google\Desktop\1.Homework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.pdb
+C:\Users\Google\Desktop\1.CheckHomework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.dll
+C:\Users\Google\Desktop\1.CheckHomework-EXERCISE_ WEB SERVER - DATABASES - EF CORE -  COMPLEX WEB APPLICATIONS\SIS.Demo\obj\Debug\netcoreapp2.0\SIS.Demo.pdb
