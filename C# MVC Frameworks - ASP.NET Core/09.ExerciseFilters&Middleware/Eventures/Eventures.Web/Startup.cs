@@ -1,6 +1,10 @@
-﻿using System;
+﻿using AutoMapper;
+using Eventures.Data;
 using Eventures.Models;
-using Eventures.Web.Data;
+using Eventures.Services;
+using Eventures.Services.Contracts;
+using Eventures.Web.Filters;
+using Eventures.Web.Infrastructure.Extensions;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -9,6 +13,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Logging;
+using System;
 
 namespace Eventures.Web
 {
@@ -31,33 +37,56 @@ namespace Eventures.Web
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
 
-            services.AddDbContext<EventuresDbContext>(options =>
-                options.UseSqlServer(this.Configuration.GetConnectionString("DefaultConnection")));
-
-            services.AddTransient<IProductService, ProductService>();
-
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+            services.AddDbContext<ApplicationDbContext>(options =>
+            {
+                options.UseLazyLoadingProxies();
+                options.UseSqlServer(
+                    Configuration.GetConnectionString("DefaultConnection"));
+            });
 
             services.Configure<IdentityOptions>(options =>
             {
                 options.SignIn.RequireConfirmedEmail = false;
-                options.Password.RequireDigit = false;
-                options.Password.RequireLowercase = false;
-                options.Password.RequireUppercase = false;
-                options.Password.RequireNonAlphanumeric = false;
-                options.Password.RequiredUniqueChars = 0;
-                options.Password.RequiredLength = 3;
             });
 
-            services.AddIdentity<User, IdentityRole>()
-                .AddDefaultUI()
-                .AddDefaultTokenProviders()
-                .AddEntityFrameworkStores<EventuresDbContext>();
+            services.AddIdentity<User, IdentityRole>(options =>
+            {
+                options.Password.RequireDigit = false;
+                options.Password.RequireLowercase = false;
+                options.Password.RequireNonAlphanumeric = false;
+                options.Password.RequireUppercase = false;
+                options.Password.RequiredLength = 1;
+            })
+            .AddDefaultTokenProviders()
+            .AddEntityFrameworkStores<ApplicationDbContext>();
+
+            services.ConfigureApplicationCookie(options =>
+            {
+                options.LogoutPath = "/Users/Logout";
+                options.LoginPath = "/Users/Login";
+                options.AccessDeniedPath = "/Users/Login";
+                options.SlidingExpiration = true;
+            });
+
+            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+
+            var mappingConfig = new MapperConfiguration(mc =>
+                mc.AddProfile(new MappingProfile())
+            );
+
+            IMapper mapper = mappingConfig.CreateMapper();
+            services.AddSingleton(mapper);
+
+            services.AddScoped<EventsCreateLogActionFilter>();
+
+            services.AddScoped<IUsersService, UsersService>();
+            services.AddScoped<IEventsService, EventsService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env, IServiceProvider serviceProvider)
+        public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory)
         {
+            app.UseDatabaseMigration();
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
@@ -69,8 +98,9 @@ namespace Eventures.Web
                 app.UseHsts();
             }
 
-            // Method for seed roles.
-            SeedRoles.Seed(serviceProvider);
+            loggerFactory.AddConsole(Configuration.GetSection("Logging"));
+            loggerFactory.AddDebug();
+            loggerFactory.AddFile($"Logs/{Configuration.GetSection("ApplicationName")}-{DateTime.UtcNow.ToString("dd/MM/yyyy")}.txt");
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();

@@ -4,6 +4,11 @@ namespace Eventures.Models
 {
     public class Event
     {
+        public Event()
+        {
+            this.Id = Guid.NewGuid().ToString();
+        }
+
         public string Id { get; set; }
 
         public string Name { get; set; }
