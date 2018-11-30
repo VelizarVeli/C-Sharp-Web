@@ -6,10 +6,10 @@ C# Web Module consists of two courses.
 
 <a href="https://softuni.bg/trainings/courses" rel="Courses">  ![SoftUni logo][logo] <a/>
 
-|**Course**|**Link**| 
-|---|---|
+|**Course**| 
+|---|
 |<a href="https://softuni.bg/trainings/2086/csharp-web-development-basics-september-2018" > C# Web Development Basics </a> |
-|---|---|
+|---|
 |<a href="https://softuni.bg/trainings/2197/csharp-mvc-frameworks-asp-net-core-november-2018" > C# MVC Frameworks - ASP.NET Core </a> |
 
 
