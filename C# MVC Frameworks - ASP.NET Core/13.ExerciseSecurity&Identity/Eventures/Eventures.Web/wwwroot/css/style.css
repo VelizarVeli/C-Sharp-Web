@@ -56,7 +56,11 @@ footer {
 }
 
 .hr-4 {
-    height: 3px;
+    height: 2px;
     color: #AFEEEE;
     background-color: #AFEEEE;
+    border-color: #AFEEEE
+}
+.span {
+    display: block
 }
